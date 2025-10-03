@@ -75,3 +75,8 @@ p{
     font-weight: bold;
     color: hsl(0, 0%, 0%);
 }
+.errorDisplay{
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+}
